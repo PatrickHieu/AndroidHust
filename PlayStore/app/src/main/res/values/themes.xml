@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PlayStoreUI" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">#00875F</item>
+        <item name="colorPrimaryDark">#006C4C</item>
+        <item name="colorAccent">#00875F</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+</resources>
