@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GmailUI" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#D44638</item>
+        <item name="colorPrimaryDark">#B93221</item>
+        <item name="colorAccent">#D44638</item>
+    </style>
+</resources>
